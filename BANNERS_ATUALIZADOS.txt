@@ -1,0 +1,32 @@
+01 — COPA DO MUNDO - SELEÇÕES
+URL = https://ik.imagekit.io/verlcwgen/Banner%20Dourado%20da%20Copa%20do%20Mundo%20(2).png?updatedAt=1793654735151
+
+02 — CAMPEONATO BRASILEIRO
+URL = https://ik.imagekit.io/verlcwgen/Campeonato%20Brasileiro%20em%20Ouro%20e%20Gl%C3%B3ria.png?updatedAt=1793654735033
+
+03 — CAMPEONATO ESPANHOL - LA LIGA
+URL = https://ik.imagekit.io/verlcwgen/Campeonato%20Espanhol_%20Jerseys%20em%20Destaque.png?updatedAt=1793654735445
+
+04 — CAMPEONATO INGLÊS - PREMIER LEAGUE
+URL = https://ik.imagekit.io/verlcwgen/Campeonato%20Ingl%C3%AAs_%20Paix%C3%A3o%20em%20Campo.png?updatedAt=1793654734963
+
+05 — CAMPEONATO ITALIANO - SERIE A
+URL = https://ik.imagekit.io/verlcwgen/Campeonato%20Italiano_%20Milan%20e%20Inter.png?updatedAt=1793654735183
+
+06 — CAMPEONATO ALEMÃO - BUNDESLIGA
+URL = https://ik.imagekit.io/verlcwgen/Campeonato%20Alem%C3%A3o_%20Bayern%20e%20Dortmund%20(1).png?updatedAt=1793654735437
+
+07 — CAMPEONATO FRANCÊS - LIGUE 1
+URL = https://ik.imagekit.io/verlcwgen/Banner%20promocional%20da%20Ligue%201%20com%20camisas%20flutuantes.png?updatedAt=1793654735428
+
+08 — TIMES DA AMÉRICA
+URL = https://ik.imagekit.io/verlcwgen/Times%20da%20Am%C3%A9rica%20em%20Destaque%20(1).png?updatedAt=1793654735002
+
+09 — RESTO DO MUNDO
+URL = https://ik.imagekit.io/verlcwgen/Camisas%20do%20Mundo%20em%20Ouro%20e%20Azul.png?updatedAt=1793654734986
+
+10 — NBA
+URL = https://ik.imagekit.io/verlcwgen/Regatas%20NBA%20em%20destaque.png
+
+11 — OUTRAS COLEÇÕES
+URL = https://ik.imagekit.io/verlcwgen/Outras%20Cole%C3%A7%C3%B5es_%20Moda%20Esportiva%20Premium.png?updatedAt=1793654735013
