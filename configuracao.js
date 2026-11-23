@@ -101,6 +101,11 @@ const configuracao = {
       "bannerMobile": "https://ik.imagekit.io/verlcwgen/Banner%20Dourado%20da%20Copa%20do%20Mundo%20(2).png?updatedAt=1793654735151",
       "clubes": [
         {
+          "nome": "Japão",
+          "imagem": "https://www.footylogos.com/dls/logo/japan-national-team.png",
+          "link": "https://photos.google.com/share/AF1QipNiFE6fGsdurp8Ue40NaYhK3ai_lwPmpT6aUnOz5K4yjJ4XdTcY8bD3exPLDXlMEw?key=c1FMeUZKSXNLX2tyNThIQzJhWGJDN3UxaEpZdXFB"
+        },
+        {
           "nome": "Brasil",
           "imagem": "https://www.footylogos.com/dls/logo/rgba-v1/brazil-national-team.png",
           "link": "https://photos.app.goo.gl/f3A3FFFej356MgD18"

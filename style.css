@@ -526,3 +526,29 @@ a.chuteiras-card:hover .chuteiras-circle,a.chuteiras-card:focus-visible .chuteir
 .monza-stage .tenis-slide img{aspect-ratio:1;height:auto;width:100%;object-fit:contain;background:transparent}
 .monza-caption{display:block;padding:.35em .2em .42em;text-align:center;color:#D4AF37;font-size:clamp(.95rem,6cqw,2.5rem);font-weight:800;line-height:1.1;letter-spacing:.045em}
 @media(max-width:760px){.monza-stage{--card:74%}}
+
+
+/* PAPITO IMPORTS | Cabeçalho branco com identidade minimalista. */
+.site-header{background:#fff;border-bottom:1px solid #e6e6e6}
+.header-inner{min-height:140px;padding-top:8px;padding-bottom:4px}
+.brand{max-width:min(64vw,430px)}
+.brand img{width:min(100%,390px);max-height:130px;object-fit:contain;object-position:left center}
+.brand-placeholder{color:#111!important}
+.header-side--right .icon-button{color:#191919;background:#f8f8f8;border:1px solid #dadada;box-shadow:none}
+.header-side--right .icon-button:hover,.header-side--right .icon-button[aria-expanded="true"]{color:#101010;background:#fff8df;border-color:#D4AF37;box-shadow:0 0 0 3px rgba(212,175,55,.12)}
+.header-side--right .icon-button:focus-visible{outline-color:#171717}
+.header-social-row .social-button--instagram,.header-social-row .social-button--whatsapp{color:#202020;background:#fafafa;border:1px solid #e0e0e0;box-shadow:none}
+.header-social-row .social-button:hover{color:#121212;background:#fff8e4;border-color:#D4AF37;filter:none}
+.header-social-row .social-button span:before{background:rgba(0,0,0,.23)}
+@media(min-width:620px){:root{--header-height:224px}}
+@media(max-width:619px){
+ :root{--header-height:161px}
+ .header-inner{min-height:100px;padding-top:5px;padding-bottom:3px}
+ .brand{max-width:57vw}
+ .brand img{width:min(100%,210px);max-height:92px}
+ .header-social-row .social-button{height:44px}
+}
+@media(max-width:359px){
+ .brand{max-width:55vw}
+ .brand img{max-height:88px}
+}
